@@ -2,6 +2,7 @@
 
 Some simple ruby script that make use of ActiveRecord CRUD tasks outside of Rails.
 
+Derp this be mine, derp. ~Quentin Dorward
 ## Files and Folders
 
 Explanation of the file/folder structure to come.
